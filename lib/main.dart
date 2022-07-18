@@ -15,7 +15,7 @@ class Ourapp extends StatelessWidget {
         appBar: AppBar(
           title: Text("NEBOT"),
         ),
-        body: Text("subhash kumar mahato"),
+        body: Center(child: Text("subhash kumar mahato")),
       ),
     );
   }
